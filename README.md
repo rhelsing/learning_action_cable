@@ -1,24 +1,4 @@
-# README
+# Action Cable FTW
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* following: https://www.sitepoint.com/create-a-chat-app-with-rails-5-actioncable-and-devise/?utm_source=sitepoint&utm_medium=relatedsidebar&utm_term=ruby
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
